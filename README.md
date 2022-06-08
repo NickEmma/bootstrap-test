@@ -25,6 +25,13 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@twitterhandle](https://twitter.com/techieEmma)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/nicholas-emmanuel-6b9775207)
 
+👤 **Olaoye Oluwatoyin**
+
+- GitHub: [@githubhandle](https://github.com/MindPrepDev)
+- Twitter: [@twitterhandle](https://twitter.com/olaoyeelijah)
+- LinkedIn: [LinkedIn](#)
+
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
